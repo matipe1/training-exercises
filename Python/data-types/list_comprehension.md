@@ -1,6 +1,6 @@
 # List Comprehension
 
-This is an exercise in which there are an implementation of list comprehension.
+This is an exercise in which there is an implementation of list comprehension.
 
 ---
 
@@ -28,7 +28,7 @@ I think that makes projects more efficient of professional.
     
     print([[i, j, k] for i in range(a + 1) for j in range(b + 1) for k in range(c + 1) if not (i+j+k) == d]])
         
- Conclusion of List Comprehension:
+### Conclusion of List Comprehension:
 
 * The **benefit** is that you only have to use one line of code.
 * But the **cons** is that sometimes is hard to understand.

@@ -1,6 +1,6 @@
 # Nested Lists
 
-This is an exercise in which there are an implementation of nested lists.
+This is an exercise in which there is an implementation of nested lists.
 
 ---
 
