@@ -1,9 +1,8 @@
 def print_rangoli(size):
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
-    letters = alphabet[:size]
-    complete = [letters[n] for n in range(size)]
+    complete = [alphabet[n] for n in range(size)]
     complete.reverse()
-    complete.extend([letters[n] for n in range(1, size)])  # input(5): ['e', 'd', 'c', 'b', 'a', 'b', 'c', 'd', 'e']
+    complete.extend([alphabet[n] for n in range(1, size)])  # input(5): ['e', 'd', 'c', 'b', 'a', 'b', 'c', 'd', 'e']
     middle = ((size * 2) // 2) - 1
 
     for i in range(size * 2 - 1):
