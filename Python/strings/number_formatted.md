@@ -9,4 +9,4 @@ The different formats the system prints are...
 * Binary
 
 Each format type has the same padding space as the last binary number quantity.
-This is done to keep the numbers in order.
+This is done to keep the order of the columns.

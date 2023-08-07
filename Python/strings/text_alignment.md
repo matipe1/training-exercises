@@ -13,3 +13,6 @@ width and elements with the code:
 * .ljust(width)
 * .rjust(width)
 * .center(width)
+
+After, this methods will be used a lot to do exercises of alignment and logic, to order the 
+different sequences of characters. An example where you can use it is the Alphabet Rangoli exercise.
